@@ -1,0 +1,21 @@
+h1{
+	color: #ff140c;
+}
+
+td{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	border: 5px solid #ff7733;
+	font-size: 70px;
+	background-color: #e9d758;
+}
+
+.jumbotron{
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}
+
+body{
+	background-color: #374e66
+}
